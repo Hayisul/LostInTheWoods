@@ -44,7 +44,7 @@ java LostInTheWoods
 
 ## 🏗️ Project Structure
 
-```
+```plaintext
 LostInTheWoods/
 │── src/
 │   ├── Game.java        # Main game loop
